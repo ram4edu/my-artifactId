@@ -1,0 +1,7 @@
+org/my/group/resteasyjackson/JacksonResource.java
+ org.my.group.resteasyjackson.JacksonResource
+ org.my.group.resteasyjackson.JacksonResource$Quark
+org/my/group/MyResource.java
+ org.my.group.MyResource
+org/my/group/resteasyjackson/MyObjectMapperCustomizer.java
+ org.my.group.resteasyjackson.MyObjectMapperCustomizer
